@@ -1,0 +1,47 @@
+h1 {
+	font-size: 4rem;
+	padding: 1%;
+	color: darkviolet;
+  border-style: solid;
+  border-color: #FC04F4;
+}
+
+h2 {
+  color: darkviolet;
+  font-size: 3rem;
+}
+
+body {
+  background-color: #f0ffff;
+  text-align: center;
+  font-family: 'Garamond', sans-serif;
+}
+
+.word-wrap {
+  padding: 20px 0px 0px 0px;
+}
+
+.form {
+  width: 100%;
+}
+
+.searchbtn {
+  height: 40px;
+  background-color: red;
+}
+
+.searchbtn:hover {
+  background-color: grey;
+}
+
+input {
+  width: 30%;
+  height: 40px;
+}
+
+input[type=text] {
+  background-color: #3CBC8D;
+  color: white;
+  font-size: 30px;
+}
+
